@@ -1,0 +1,20 @@
+gradient {
+    color: #FF5D03;
+}
+
+body {
+    font-family: 'Fredoka', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.25;
+    position: absolute;
+     padding-top: 56px;
+}
+.hertog-jan-rectangle {
+    width: 200px;
+    height: 200px;
+    background-color: snow;
+}
+.container {
+    padding-top: 100px;
+}
